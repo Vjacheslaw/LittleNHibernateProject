@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LittleNHibernateProject", "LittleNHibernateProject\LittleNHibernateProject.csproj", "{0942CBBA-6CEF-4A92-BBFC-9E652BA81572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0942CBBA-6CEF-4A92-BBFC-9E652BA81572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0942CBBA-6CEF-4A92-BBFC-9E652BA81572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0942CBBA-6CEF-4A92-BBFC-9E652BA81572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0942CBBA-6CEF-4A92-BBFC-9E652BA81572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13723630-5564-4E95-8DBC-61715C955D83}
+	EndGlobalSection
+EndGlobal

@@ -7,5 +7,7 @@
         public virtual string Variety { get; set; }
 
         public virtual long VersionObject { get; set; }
+
+        //public virtual string NewProperty { get; set; }
     }
 }
